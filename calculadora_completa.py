@@ -15,9 +15,10 @@ def iniciar_programa():
     Função principal que roda a calculadora.
     """
     print(' ')
-    print('Bem vindo(a)')
-    print('Calculadora de Notas v2.0 (Online)') # v2.0 para mostrar que é a nova!
+    print('Calculadora de Notas v2.0 (Online)') # v2.0
+    print(' ')
     print('Calcule sua nota necessária para passar de ano sem estresse')
+    print(' ')
     print('A nota da AV1 do 4º bimestre')
     print('dessa matéria já foi publicada?')
 
