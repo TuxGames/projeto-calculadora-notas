@@ -16,11 +16,11 @@ def iniciar_programa():
     """
     print(' ')
     print('Calculadora de Notas v2.0 (Online)') # v2.0
-    print(' ')
     print('Calcule sua nota necessária para passar de ano sem estresse')
     print(' ')
     print('A nota da AV1 do 4º bimestre')
     print('dessa matéria já foi publicada?')
+    print(' ')
 
     try:
         pergunta1 = input('Responda com S ou N: ').upper()
