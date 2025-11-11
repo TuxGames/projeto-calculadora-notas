@@ -1,6 +1,3 @@
-# Este é o arquivo que fica no seu GitHub.
-# Ele contém TUDO: as funções e o programa principal.
-
 import math
 
 def arredondar_nota_para_cima(nota):
@@ -17,6 +14,7 @@ def iniciar_programa():
     """
     Função principal que roda a calculadora.
     """
+    print(' ')
     print('Bem vindo(a)')
     print('Calculadora de Notas v2.0 (Online)') # v2.0 para mostrar que é a nova!
     print('Calcule sua nota necessária para passar de ano sem estresse')
@@ -60,7 +58,6 @@ def iniciar_programa():
         print(f"\nOcorreu um erro inesperado: {e}")
 
 # --- Ponto de Partida ---
-# Quando o script for executado, ele começa por aqui.
+# Qnd o script for executado, ele começa por aq
 if __name__ == "__main__":
     iniciar_programa()
-    input("\nPressione Enter para sair...") # Pausa o programa antes de fechar
